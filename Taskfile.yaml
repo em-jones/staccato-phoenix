@@ -1,0 +1,7 @@
+version: "3"
+
+tasks:
+  start:
+    cmds:
+      - docker compose up -d
+      - iex -S mix phx.server

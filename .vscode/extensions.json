@@ -1,0 +1,31 @@
+{
+  "recommendations": [
+    "JakeBecker.elixir-ls",
+    "saratravi.elixir-formatter",
+    "mjmcloug.vscode-elixir",
+    "samuel-pordeus.elixir-test",
+    "florinpatrascu.vscode-elixir-snippets",
+    "svelte.svelte-vscode",
+    "ardenivanov.svelte-intellisense",
+    "melihaltintas.svelte-format",
+    "otovo-oss.htmx-tags",
+    "ms-azuretools.vscode-docker",
+    "p1c2u.docker-compose",
+    "usernamehw.errorlens",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "ms-vsliveshare.vsliveshare",
+    "yzhang.markdown-all-in-one",
+    "phoenixframework.phoenix",
+    "mtxr.sqltools",
+    "task.vscode-task",
+    "jetpack-io.devbox",
+    "Gruntfuggly.todo-tree",
+    "jamilabreu.vscode-phoenix-snippets",
+    "szTheory.hex-lens",
+    "oderwat.indent-rainbow",
+    "bajdzis.vscode-database",
+    "ms-vscode.vscode-typescript-next"
+  ]
+}
