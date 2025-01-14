@@ -10,6 +10,7 @@ defmodule Staccato.Application do
     children = [
       StaccatoWeb.Telemetry,
       Staccato.Repo,
+      {Oban, Application.fetch_env!(:staccato, Oban)},
       {DNSCluster, query: Application.get_env(:staccato, :dns_cluster_query) || :ignore},
       {Phoenix.PubSub, name: Staccato.PubSub},
       # Start the Finch HTTP client for sending emails

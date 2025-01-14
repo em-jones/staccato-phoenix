@@ -33,6 +33,9 @@
     - [ ] [Contexts](https://hexdocs.pm/phoenix/contexts.html) (Business domain boundaries)
     - [ ] [JSON & APIs](https://hexdocs.pm/phoenix/json_and_apis.html)
       > NOTE - not used terribly often as we're relying on `LiveViews` and `HTMX` for our UI
+    - [ ] [Distributed Job Server](https://hexdocs.pm/oban/Oban.html)
+      - [ ] [Create a job](https://hexdocs.pm/oban/Oban.html#module-defining-workers)
+      - [ ] [Add a Cron Job](https://hexdocs.pm/oban/Oban.Plugins.Cron.html#module-using-the-plugin)
     - [ ] [Mix Tasks](https://hexdocs.pm/phoenix/mix_tasks.html) (CLI Tooling)
     - [ ] Extra Credit
       - [ ] [Telemetry](https://hexdocs.pm/phoenix/telemetry.html)
