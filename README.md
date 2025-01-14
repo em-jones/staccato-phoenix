@@ -29,12 +29,12 @@
     - [ ] [Routing](https://hexdocs.pm/phoenix/routing.html) 
     - [ ] [Controllers](https://hexdocs.pm/phoenix/controllers.html)
     - [ ] [Components and Heex](https://hexdocs.pm/phoenix/components.html)
-    - [ ] [Ecto](https://hexdocs.pm/phoenix/ecto.html) (Persistence)
+    - [ ] <a id="ecto" href="https://hexdocs.pm/phoenix/ecto.html">Ecto</a> (Persistence) 
     - [ ] [Contexts](https://hexdocs.pm/phoenix/contexts.html) (Business domain boundaries)
-    - [ ] [JSON & APIs](https://hexdocs.pm/phoenix/json_and_apis.html)
+    - [ ] <a id="json-api" href="https://hexdocs.pm/phoenix/json_and_apis.html">JSON & APIs</a>
       > NOTE - not used terribly often as we're relying on `LiveViews` and `HTMX` for our UI
     - [ ] [Distributed Job Server](https://hexdocs.pm/oban/Oban.html)
-      - [ ] [Create a job](https://hexdocs.pm/oban/Oban.html#module-defining-workers)
+      - [ ] <a id="create-job" href="https://hexdocs.pm/oban/Oban.html#module-defining-workers">Create a job</a>
       - [ ] [Add a Cron Job](https://hexdocs.pm/oban/Oban.Plugins.Cron.html#module-using-the-plugin)
     - [ ] [Mix Tasks](https://hexdocs.pm/phoenix/mix_tasks.html) (CLI Tooling)
     - [ ] Extra Credit
@@ -42,6 +42,7 @@
       - [ ] [Channels](https://hexdocs.pm/phoenix/channels.html)
       - [ ] [Testing](https://hexdocs.pm/phoenix/testing.html)
 - [ ] [Svelte](https://svelte.dev/tutorial/svelte/welcome-to-svelte)
+  - [ ] <a id="ui-emit-events" href="https://svelte.dev/playground/event-forwarding">Emitting events</a>
 - [ ] [HTMX](https://htmx.org/docs/) - Assignment - Learn how to route using HTMX instead of using phoenix full-page loads
 ### Phoenix Controllers Development
 ### Phoenix LiveView Development <!-- TODO: Add LiveView support -->
