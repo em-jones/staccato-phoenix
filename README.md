@@ -22,18 +22,18 @@
   > NOTE: You can safely ignore the `Asset Management` portion of the guides
   - [ ] [Package Glossary](https://hexdocs.pm/phoenix/packages_glossary.html) - Gain high-level understanding of the packages common to phoenix
   - [ ] Guides
-    - [ ][Directory structure](https://hexdocs.pm/phoenix/directory_structure.html) 
+    - [ ] [Directory structure](https://hexdocs.pm/phoenix/directory_structure.html) 
       > NOTE: Assets are treated slightly differently in this project because we're using `bun` + `vite` + `tailwindcss` as our asset build pipeline
-    - [ ][Request Lifecycle](https://hexdocs.pm/phoenix/request_lifecycle.html)
-    - [ ][Plug](https://hexdocs.pm/phoenix/plug.html)
-    - [ ][Routing](https://hexdocs.pm/phoenix/routing.html) 
-    - [ ][Controllers](https://hexdocs.pm/phoenix/controllers.html)
-    - [ ][Components and Heex](https://hexdocs.pm/phoenix/components.html)
-    - [ ][Ecto](https://hexdocs.pm/phoenix/ecto.html) (Persistence)
-    - [ ][Contexts](https://hexdocs.pm/phoenix/contexts.html) (Business domain boundaries)
-    - [ ][JSON & APIs](https://hexdocs.pm/phoenix/json_and_apis.html)
+    - [ ] [Request Lifecycle](https://hexdocs.pm/phoenix/request_lifecycle.html)
+    - [ ] [Plug](https://hexdocs.pm/phoenix/plug.html)
+    - [ ] [Routing](https://hexdocs.pm/phoenix/routing.html) 
+    - [ ] [Controllers](https://hexdocs.pm/phoenix/controllers.html)
+    - [ ] [Components and Heex](https://hexdocs.pm/phoenix/components.html)
+    - [ ] [Ecto](https://hexdocs.pm/phoenix/ecto.html) (Persistence)
+    - [ ] [Contexts](https://hexdocs.pm/phoenix/contexts.html) (Business domain boundaries)
+    - [ ] [JSON & APIs](https://hexdocs.pm/phoenix/json_and_apis.html)
       > NOTE - not used terribly often as we're relying on `LiveViews` and `HTMX` for our UI
-    - [ ][Mix Tasks](https://hexdocs.pm/phoenix/mix_tasks.html) (CLI Tooling)
+    - [ ] [Mix Tasks](https://hexdocs.pm/phoenix/mix_tasks.html) (CLI Tooling)
     - [ ] Extra Credit
       - [ ] [Telemetry](https://hexdocs.pm/phoenix/telemetry.html)
       - [ ] [Channels](https://hexdocs.pm/phoenix/channels.html)
