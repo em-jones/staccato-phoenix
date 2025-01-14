@@ -7,6 +7,7 @@ import topbar from "topbar"
 import htmx from 'htmx.org';
 import { mount } from 'svelte';
 import Button from './components/Button.svelte';
+import TodoList from './components/TodoList.svelte';
 
 window.htmx = htmx;
 htmx.logAll();
@@ -33,4 +34,8 @@ window.liveSocket = liveSocket
 
 document.querySelectorAll("[svelte-button]").forEach(target => {
   mount(Button, { target })
+})
+
+document.querySelectorAll("[todolist-container").forEach(target => {
+  mount(TodoList, { target })
 })
