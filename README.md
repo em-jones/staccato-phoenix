@@ -30,10 +30,10 @@
     - [ ] [Controllers](https://hexdocs.pm/phoenix/controllers.html)
     - [ ] [Components and Heex](https://hexdocs.pm/phoenix/components.html)
     - [ ] [Ecto](https://hexdocs.pm/phoenix/ecto.html) (Persistence)
+    - [ ] [Testing](https://hexdocs.pm/phoenix/testing.html)
     - [ ] [Contexts](https://hexdocs.pm/phoenix/contexts.html) (Business domain boundaries)
     - [ ] [JSON & APIs](https://hexdocs.pm/phoenix/json_and_apis.html)
       > NOTE - not used terribly often as we're relying on `LiveViews` and `HTMX` for our UI
-    - [ ] [Testing](https://hexdocs.pm/phoenix/testing.html)
     - [ ] Extra Credit
       - [ ] [Telemetry](https://hexdocs.pm/phoenix/telemetry.html)
       - [ ] [Channels](https://hexdocs.pm/phoenix/channels.html)
